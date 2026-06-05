@@ -23,7 +23,7 @@ Performed a Windows security compliance lab using DISA STIG guidance, STIG Viewe
 - V-205724:
 
 ## Results
-Initial Score: 46
+Initial Score: 46%
 Final Score: 48.68%
 
 ## Screenshots
